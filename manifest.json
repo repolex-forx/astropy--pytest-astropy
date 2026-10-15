@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "astropy",
+  "repo": "pytest-astropy",
+  "versions": [
+    {
+      "commit": "594ff8e150181aec1a9dd2445f64617cc442b033",
+      "parsed_at": "2026-10-15T20:30:19.687473+00:00",
+      "filetree": "filetree/594ff8e150181aec1a9dd2445f64617cc442b033.nq.gz",
+      "blobs": [
+        "blob/bad7a41d3bd1b1281f01e13b4a412d6e7ec51483.nq.gz",
+        "blob/63f2a696de5d357385a75deaff42837f855382f8.nq.gz",
+        "blob/66b0a061fb3cfd7afd90bff842fc35e1e43639bf.nq.gz",
+        "blob/44596a70eb27d2df7c3818cc3bf6e4360bc66a98.nq.gz",
+        "blob/e417cf74d6dc6a2d986fa64ca1d6d5c896dff216.nq.gz",
+        "blob/134b363ce39fd0068d0e3d33f596a509e8e06687.nq.gz",
+        "blob/b507b35474ebf2eb9aeb41a0a0b918e0c6c1464b.nq.gz",
+        "blob/beda28e821662c8d9fdefee034d83a5d75f9c023.nq.gz",
+        "blob/981962d883e64f93e1289f6160b9a04e54b8fd06.nq.gz",
+        "blob/350c5a7a0c9e43cd81936abb9111ee560be2e979.nq.gz",
+        "blob/09a667802e39b5d3855a016d255afcd0a22b9619.nq.gz",
+        "blob/b84cf0f43e2351f1f641d89bc5718c2829601f33.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
