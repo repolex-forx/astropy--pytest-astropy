@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "pytest-astropy",
+  "versions": [
+    {
+      "commit": "594ff8e150181aec1a9dd2445f64617cc442b033",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:32:22.616078+00:00"
+    }
+  ]
+}
